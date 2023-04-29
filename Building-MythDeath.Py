@@ -19,16 +19,16 @@ print(Style.RESET_ALL)
 print(Style.BRIGHT)
 print(Fore.GREEN)
 print('''
-                   M"Y"T"H D"E"A"T"H                                                     
+                   M Y T H D E A T H                                                     
   
-         -   M"Y"T"H D"E"A"T"H   -  V = 2.8   ''')
+       M Y T H D E A T H  -   -  V = 2.8   ''')
 
 print(f'''      {B}{E}==============================
       |{G}[+] GitHub    : {B}MythDeath   {E}|
       |{G}[+] Developer : {B}MythEmre     {E}|
       |{G}[+] TeleGram  : {B}@MythHackChannel{E}|
       {E}==============================''')
-print('              M"Y"T"H D"E"A"T"H       ')      
+print('              M Y T H D E A T H       ')      
 print('''\033[1;34m        https://t.me/MythHackChannel       
        https://github.com/MythDeath\n\n''')    
 
