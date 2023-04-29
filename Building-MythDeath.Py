@@ -6,11 +6,11 @@ from colorama import Fore, Style, init
 
 os.system('pip install emojify')
 
-E = '\033[1;31m'
+W = '\033[1;31m'
 B = '\033[1;36m'
 G = '\033[1;32m'
 S = '\033[1;33m'
-W = '\033[1;97m'
+E = '\033[1;97m'
 
 os.system('clear')
 
