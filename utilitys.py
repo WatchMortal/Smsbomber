@@ -54,10 +54,8 @@ def display():
         print(LOGO)
         print(f'''
     [ Live Views ]: {Api.real_views}
-
     [ Token Errors ]:   {Api.token_errors}
     [ Proxies Errors ]: {Api.proxy_errors}
-
     [ Threads ]: {active_count()}
         ''')
     
