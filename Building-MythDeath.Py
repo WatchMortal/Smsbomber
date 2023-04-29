@@ -19,16 +19,16 @@ print(Style.RESET_ALL)
 print(Style.BRIGHT)
 print(Fore.GREEN)
 print('''
-          ▐▮▌ ▞▖ ▙ ▚▞▚▞ ▞▖ █▘ █☰                                                                                                 
+                    ̥ͦM̥̥ͦͦy̥̥ͦͦt̥̥ͦͦh̥̥ͦͦD̥̥ͦͦe̥̥ͦͦḁ̥ͦͦt̥̥ͦͦh̥ͦ                                                                                    
   
-         -   𝐌𝐚𝐥𝐰𝐚𝐫𝐞   -  V = 2.1   ''')
+         -   MythDeath   -  V = 2.6   ''')
 
 print(f'''      {B}{E}==============================
       |{G}[+] GitHub    : {B}MythDeath   {E}|
       |{G}[+] Developer : {B}MythEmre     {E}|
       |{G}[+] TeleGram  : {B}@MythHackChannel{E}|
       {E}==============================''')
-print('               M A L W A R E                     ')      
+print('               ̥ͦM̥̥ͦͦy̥̥ͦͦt̥̥ͦͦh̥̥ͦͦD̥̥ͦͦe̥̥ͦͦḁ̥ͦͦt̥̥ͦͦh̥ͦ                     ')      
 print('''\033[1;34m        https://t.me/MythHackChannel       
        https://github.com/MythDeath\n\n''')    
 
