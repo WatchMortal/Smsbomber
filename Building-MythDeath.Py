@@ -21,7 +21,7 @@ print(Fore.GREEN)
 print('''
                     ̥ͦM̥̥ͦͦy̥̥ͦͦt̥̥ͦͦh̥̥ͦͦD̥̥ͦͦe̥̥ͦͦḁ̥ͦͦt̥̥ͦͦh̥ͦ                                                                                    
   
-         -   MythDeath   -  V = 2.6   ''')
+         -   MythDeath   -  V = 2.8   ''')
 
 print(f'''      {B}{E}==============================
       |{G}[+] GitHub    : {B}MythDeath   {E}|
