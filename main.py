@@ -1,5 +1,4 @@
-from threading import Thread, active_count 
- from time import sleep as swait 
+from threading import Thread, active_count  
  from auto_proxy import Proxy 
  from telegram import Api 
  from utilitys import * 
