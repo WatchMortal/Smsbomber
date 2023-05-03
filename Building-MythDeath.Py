@@ -14,10 +14,10 @@ print(Style.RESET_ALL)
 print(Style.BRIGHT)
 print(Fore.GREEN)
 print('''
-                   M"Y"T"H D"E"A"T"H                                                     
+                                                                        
                    M Y T H D E A T H                                                     
   
-         -   M"Y"T"H D"E"A"T"H   -  V = 2.8   ''')
+       
        M Y T H D E A T H  -   -  V = 2.8   ''')
 
 print(f'''      {B}{E}==============================
