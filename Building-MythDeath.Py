@@ -25,7 +25,7 @@ print(f'''      {B}{E}==============================
       |{G}[+] Developer : {B}MythEmre     {E}|
       |{G}[+] TeleGram  : {B}@MythHackChannel{E}|
       {E}==============================''')
-print('              M"Y"T"H D"E"A"T"H       ')      
+      
 print('              M Y T H D E A T H       ')      
 print('''\033[1;34m        https://t.me/MythHackChannel       
        https://github.com/MythDeath\n\n''')    
