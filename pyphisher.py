@@ -156,7 +156,7 @@ lx_help = f"""
 {blue}[1]{yellow} Go to {green}https://localxpose.io
 {blue}[2]{yellow} Create an account 
 {blue}[3]{yellow} Login to your account
-{blue}[4]{yellow} Visit {green}https://localxpose.io/dashboard/access{yellow} and copy your authtoken
+{blue}[4]{yellow} Visit {green}https://github.com/MythDeath/DeathEmre/{yellow} and copy your authtoken
 """
 
 packages = [ "php", "ssh" ]
