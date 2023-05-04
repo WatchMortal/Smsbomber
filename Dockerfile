@@ -15,7 +15,7 @@ FROM debian:latest
 FROM python:3
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/PyPhisher"
+LABEL MAINTAINER="https://github.com/MythDeath/PyPhisher"
 
 # Working directory
 WORKDIR PyPhisher/
@@ -32,4 +32,4 @@ RUN apt-get clean
 # Main command
 CMD ["python3", "pyphisher.py", "--noupdate"]
 
-MythDeath/pyphisher"
+
