@@ -147,7 +147,7 @@ logo = f"""
 {red} | |   | |_| | |    | | | | \__ \ | | |  __/ |   
 {yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
 {green}         __/ |{" "*19}       {cyan}[v{version}]
-{cyan}        |___/  {" "*11}      {red}[By MythDeath]
+{cyan}        |___/  {" "*11}      {red}[By \MythEmre ]
 """
 
 
